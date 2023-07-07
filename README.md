@@ -163,6 +163,8 @@ openssl s_client -showcerts \
 
 Other routing related topics:
 
+- [Session Affinity](https://docs.openshift.com/container-platform/4.13/networking/ovn_kubernetes_network_provider/about-ovn-kubernetes.html#nw-ovn-kubernetes-session-affinity_about-ovn-kubernetes)
+- [Route Annotations - configuration](https://docs.openshift.com/container-platform/4.13/networking/routes/route-configuration.html#nw-using-cookies-keep-route-statefulness_route-configuration)
 - [Ingress TLS with SNI](https://docs.openshift.com/container-platform/4.13/networking/configuring_ingress_cluster_traffic/overview-traffic.html)
 - [Network Policy](https://docs.openshift.com/container-platform/4.13/networking/network_policy/about-network-policy.html)
 - [IP Whitelisting](https://docs.openshift.com/container-platform/4.13/networking/routes/route-configuration.html)
